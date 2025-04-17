@@ -1,4 +1,3 @@
-# Path to the data directory containing JSON files
 $dataDirectory = "./data"
 
 # The VM size to search for
